@@ -123,3 +123,4 @@ while(num2<=num)
     Console.Write(num2+" ");
     num2=num2+1;
 }
+
